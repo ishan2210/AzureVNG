@@ -1,0 +1,8 @@
+https://login.microsoftonline.com/common/oauth2/authorize?client_id=41b23e61-6c1e-4545-b367-cd054e0ed4b4&response_type=code&redirect_uri=https%3A%2F%2Fportal.azure.com&nonce=1234&prompt=admin_consent
+
+https://login.microsoftonline.com/0f333514-e485-479c-9ff0-0a689ee993a3/
+
+https://sts.windows.net/0f333514-e485-479c-9ff0-0a689ee993a3/
+
+41b23e61-6c1e-4545-b367-cd054e0ed4b4
+
